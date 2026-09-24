@@ -1,8 +1,6 @@
 package com.reto.model;
 
-/**
- * Representa un producto con nombre, categoria y precio.
- */
+
 public class Producto {
 
     private String nombre;

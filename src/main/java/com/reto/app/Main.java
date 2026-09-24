@@ -7,11 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Clase principal: crea una lista de productos de ejemplo,
- * pide al usuario una categoria y muestra el resultado filtrado
- * y ordenado en orden descendente por precio.
- */
+
 public class Main {
 
     public static void main(String[] args) {
